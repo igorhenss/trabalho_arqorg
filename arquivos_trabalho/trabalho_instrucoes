@@ -1,0 +1,11 @@
+> Ao executar o arquivo "RAMCacheSimulator.jar", o programa começa a rodar.
+> Após isso, basta escolher entre as políticas de substituição.
+> Para ler uma linha da memória RAM, deve-se clicar sobre a mesma.
+> Para escrever sobre uma linha da memória Cache, deve-se clicar duas vezes sobre a mesma, digitar o novo texto e apertar Enter ou clicar em algum lugar fora da célula em questão.
+> A aplicação da política de substituição se dá somente na hora de substituição, então a alternância entre as mesmas não reinicia a simulação.
+> O Logger mostra os eventos principais da simulação.
+> Os contados presentes em Hit or Miss contam os Hits e Misses da simulação.
+
+> Para ver o código fonte, recomenda-se utilizar a IntelliJ IDEA. Entretanto, o projeto foi feito com Maven, então pode ser importado em qualquer IDE que o suporte.
+> Para executar o arquivo por linhas de comando em Linux, basta ir até a pasta em que ele se encontra (arquivos_trabalho) e digitar "java -jar RAMCacheSimulator.jar".
+> Para executar o arquivo em Windows, basta clicar duas vezes ou selecioná-lo e pressionar Enter.
